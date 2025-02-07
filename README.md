@@ -1,2 +1,2 @@
-# nuageOS
-nuage OS is an operating system
+# nuOS - nuageOS
+nuOS is an operating system based on linux
